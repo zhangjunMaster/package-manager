@@ -1,0 +1,35 @@
+body {
+    padding: 10px;
+    font: 14px "微软雅黑", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+.jy-detail-list {
+    background: #faf5ee;
+}
+
+.jy-detail {
+    position: relative;
+}
+
+.jy-modal {
+    width: 130%;
+    background: #fff;
+    position: absolute;
+    left: -20%;
+    height: 40em;
+    overflow: auto;
+}
+
+.jy-modal-body {
+    height: 30em;
+    overflow: auto;
+}
+
+.jy-package {
+    height: 30em;
+    overflow: auto;
+}

@@ -1,0 +1,24 @@
+{
+  "title": "由你填写",
+  "port": 3000,
+  "mysql": {
+    "host": "192.168.1.19",
+    "port": 3006,
+    "user": "root",
+    "password": "freedom",
+    "database": "package-test",
+    "debug": false,
+    "connectionLimit": 10
+  },
+  "rootSecret": "dmlsbGF78xNQ==",
+  "vipSecret": "dmls89976AMjAxNQ==",
+  "statCron": "5 3 * * *",
+  "pageSize": 20,
+  "salesRoleid": 5,
+  "distributorRoleid": 6,
+  "cpaDistributorid": 112,
+  "packagesRoot": "public/packages",
+  "aapt": "aapt",
+  "unzip": "unzip",
+  "zip": "zip"
+}
